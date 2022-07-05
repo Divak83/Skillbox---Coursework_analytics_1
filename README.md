@@ -1,4 +1,4 @@
-# Skillbox---Coursework_analytics_1
+# Skillbox - Coursework_analytics_1
 
 Курсовая работа. Блок 1<br>
 Pandas и Matplotlib
